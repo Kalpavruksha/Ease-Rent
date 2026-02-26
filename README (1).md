@@ -5,7 +5,6 @@ Ease-Rent is a modern **tenant and rental management system** built with **Vue.j
 This project helps landlords and property managers streamline tenant management, rent collection, and notifications in a simple, efficient, and scalable way.  
 
 ---
-
 ## 🚀 Features
 
 - 👤 **Tenant Management** – Add, edit, and manage tenant details.  
